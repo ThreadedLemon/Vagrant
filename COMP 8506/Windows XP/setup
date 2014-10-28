@@ -1,0 +1,4 @@
+#!/bin/bash
+#use: http://aka.ms/vagrant-xp-ie6 if my box doesn't work for you
+vagrant box add https://www.dropbox.com/s/ykljicurkgoypap/winxp-sp1?dl=1 --name winxp
+vagrant up

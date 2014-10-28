@@ -1,0 +1,3 @@
+#!/bin/bash
+vagrant box add http://aka.ms/vagrant-win7-ie8 --name win7
+vagrant up
